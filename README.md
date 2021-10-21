@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/72759173/138338538-d3533640-a0f3-48e4-8d6e-275ab1c40c56.png)
+
 # WeatherApp
 
 
