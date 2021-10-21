@@ -1,0 +1,29 @@
+.card {
+  margin: 30px;
+  width: 18rem;
+  background-color: rgb(128, 191, 241);
+  border-style: solid;
+  border-width: 2px;
+  border: black;
+}
+
+.card-title {
+  margin-bottom: 15px;
+  color: black;
+ 
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+.row{
+  color: black;
+}

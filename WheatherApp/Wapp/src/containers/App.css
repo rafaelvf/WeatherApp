@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-image: url("../img/g.jfif");
+  background-repeat: no-repeat;
+  opacity: 0.9;
+  height: 750px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}

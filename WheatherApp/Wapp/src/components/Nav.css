@@ -1,0 +1,14 @@
+#logoHenry {
+  margin-right: 20px;
+}
+.navbar-brand{
+  position: relative;
+  left: -650px;
+  color: black;
+  
+}
+.about{
+  position: relative;
+  left: 650px;
+  color: black;
+}
